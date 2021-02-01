@@ -1,0 +1,50 @@
+h1{
+    color:aqua
+    }
+
+    
+
+.header{
+    background-color:blue;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end ;
+}
+body{
+    background-color:aqua;
+}
+.grid img{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+.orgami {
+    border-radius: 20px;
+    background-color:aquamarine
+    padding= 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantacy;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: chartreuse;
+    padding: 15px;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:cyan;
+}
+body{
+    margin:0px;
+    background-color: darkblue;
+}
